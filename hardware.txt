@@ -1,0 +1,26 @@
+Hardware Used
+Raspberry Pi 1.1.2: 
+
+        Raspberry Pi is a series of small single-board computers. With its low power consumption and small 
+        form factor, the Raspberry Pi can be used in a wide variety of projects, from home automation and 
+        media centers to robotics and industrial automation. It can be programmed using Python language and
+         utilized to capture facial features and detect drowsiness and yawning in a driver.
+
+
+Raspberry Pi Camera (Rev 1.3): 
+
+        The Raspberry Pi Camera Module Rev 1.3 is an add-on board for the Raspberry Pi that allows you to 
+        capture images and videos with your Raspberry Pi. It features a 5-megapixel OmniVision OV5647 camera sensor, 
+        capable of capturing still images at a resolution of up to 2592x1944 and recording 1080p HD video at 30 
+        frames per second. The camera module connects to the Raspberry Pi's CSI (Camera Serial Interface) port, 
+        providing a direct and fast connection that enables you to take advantage of the camera's full capabilities. 
+        The module is also very small and lightweight, making it easy to integrate into projects that require a 
+        small form factor camera. With its high resolution and low cost, the Raspberry Pi Camera Module Rev 1.3 
+        is a great tool for a wide range of applications, from home security and surveillance to robotics and 
+        scientific imaging.
+
+
+Buzzer: 
+        
+        A buzzer is a simple electronic component used to produce sound. In this project, it is used to
+        provide audible alerts when drowsiness or yawning is detected.
