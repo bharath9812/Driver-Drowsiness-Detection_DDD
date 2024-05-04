@@ -1,4 +1,4 @@
-# Drowsiness Drowsiness and Yawn detection
+# Driver Drowsiness Detection
 
 This Python script detects drowsiness and yawning in a person using a webcam. It utilizes computer vision techniques and facial landmarks to analyze eye and lip movements in real-time.
 
