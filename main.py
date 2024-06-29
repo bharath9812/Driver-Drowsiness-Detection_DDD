@@ -170,6 +170,6 @@ if __name__ == "__main__":
         if key == ord("q"):
             break
 
-    # Cleanup
+    # Cleanup and destroy windows
     cv2.destroyAllWindows()
     vs.stop()
